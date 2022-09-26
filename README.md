@@ -1,4 +1,4 @@
-# :purse: TrybeWallet :moneybag:
+# TrybeWallet 
 
 ![desktop preview](imgs/desktop-preview.png)
 
@@ -67,25 +67,6 @@ Tivemos que desenvolver uma aplicação React de carteira usando React Router, R
 * Redux tunk
 * GitHub Pages
 
-## :trophy: Grade/Nota
-
-![My grade of the project - Minha nota no projeto](./imgs/nota.png)
-
-### :copyright: Copyright disclaimer/Aviso de direitos autorais
-
-<details>
-  <summary markdown="span"><strong>:us: English</strong></summary><br />
-
-I developed this project for learning purposes, all the code and documentation texts are my authorship, and the rights belong exclusively to me. It is allowed to download or clone the repository for study purposes. However, it is not allowed to publish full or partial copies. This disclaimer does not cover libraries and dependencies, which are subject to their respective licenses.
-
-We use the [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas) API to fetch the currencies' data.
-<br />
-</details>
-
-<details>
-  <summary markdown="span"><strong>:brazil: Português</strong></summary><br />
-
-Desenvolvi esse projeto para propósitos de aprendizagem, todo o código e documentação são de minha autoria e os direitos pertencem exclusivamente a mim. É permitido baixar ou clonar o repositório para fins de estudo. Contudo, não é permitido publicar cópias totais ou parciais. Este aviso não cobre bibliotecas e dependências, estas estão sujeitas a suas respectivas licenças.
 
 Utilizamos a API [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas) para consumir dados de moedas.
 <br />
